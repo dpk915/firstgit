@@ -1,0 +1,27 @@
+package com.sweetsdelight_bk;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.PostMapping;
+
+import com.sweetsdelight_bk.Model.Cart;
+import com.sweetsdelight_bk.Service.CartService;
+
+import io.swagger.v3.oas.annotations.parameters.RequestBody;
+
+@Controller
+public class SwiggyController {
+	
+	@Autowired
+	CartService cartser;
+	
+	
+	@PostMapping("/cart/add")
+	public ResponseEntity<Cart> addnewcart(@RequestBody Cart cart){
+		Cart c=cartser.addCart(cart);
+		return new ResponseEntity<>(c,HttpStatus.CREATED);
+	}
+
+}
