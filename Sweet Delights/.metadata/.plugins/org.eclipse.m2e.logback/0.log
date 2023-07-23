@@ -4,3 +4,4 @@
 2023-07-23 14:27:20,456 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SweetsDelight_BK/src/main/resources
 2023-07-23 14:27:20,472 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SweetsDelight_BK/src/main/resources
 2023-07-23 14:27:20,484 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SweetsDelight_BK/src/test/java
+2023-07-23 14:27:23,356 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 11 sec
