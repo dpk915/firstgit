@@ -1,11 +1,16 @@
 
+![MasterHead](https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
 
-  
-    ![logo](https://user-images.githubusercontent.com/112805297/225855565-91bedeed-ad24-485c-b2ba-b77d632c7051.png)
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-    
-    <h3 align="center"> A passionate Full-Stack Developer from India </h3>
-    <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Hey!+It's+Deepak+Yadav.;Full+Stack-Web+Developer...%20:;" style="width: 100%;">
+
+<!-- Divider Line -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+<!-- Greeting Message -->
+<h1 align="center">:wave: Hello everyone! :innocent:</h1>
 
 
 
@@ -18,10 +23,10 @@
 - :smile: Pronouns: ...@Deepak
 - :zap: Fun fact: Always smile in a tough situation.
 
-<!-- Divider Line -->
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<!-- Connect with Me -->
+
 <h3 align="center">Connect with me:</h3>
 <div align="center">
     <a href="https://www.linkedin.com/in/deepak-yadav-b04998157/" target="_blank">
