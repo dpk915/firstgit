@@ -1,12 +1,14 @@
-<!-- Introduction -->
-<div align="center">
+
+
   
     ![logo](https://user-images.githubusercontent.com/112805297/225855565-91bedeed-ad24-485c-b2ba-b77d632c7051.png)
+
+    
     <h3 align="center"> A passionate Full-Stack Developer from India </h3>
     <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
-</div>
 
-<!-- Overview -->
+
+
 - :telescope: I’m currently working on **MySkill**.
 - :seedling: I’m currently learning **Full-Stack Web Development**.
 - :speech_balloon: Ask me about **Web Development**.
