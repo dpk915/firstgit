@@ -40,6 +40,30 @@
     </a>
 </div>
 
+
+
+
+
+
+
+
+🔭 I’m currently working on Java-based projects, building real-time web applications using modern Java technologies.
+
+🌱 I’m currently learning advanced backend development techniques with Java, diving into topics like Spring Boot, and exploring serverless architectures using AWS Lambda and API Gateway.
+
+👯 I’m looking to collaborate on open-source projects related to Java development and real-time applications.
+
+🤔 I’m looking for help with improving my knowledge of cloud computing and distributed systems as they relate to Java applications.
+
+💬 Ask me about my experience building scalable and performant Java web applications or my favorite Java coding tools and resources.
+
+📫 You can reach me at [email](mailto:yadavdpk915@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/deepak-yadav-b04998157/).
+
+😄 Pronouns: He/him.
+
+⚡ Fun fact: Besides coding, I love traveling and exploring new cultures. I'm always looking for my next adventure!
+
+
 <!-- Languages and Tools -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
