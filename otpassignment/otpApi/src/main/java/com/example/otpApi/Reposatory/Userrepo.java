@@ -9,4 +9,5 @@ import com.example.otpApi.Entity.User;
 
 public interface Userrepo extends JpaRepository<User, Long>{
 	Optional<User> findByEmail(String email);
+	Optional<User> findById(int id);
 }
